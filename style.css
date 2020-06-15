@@ -1,3 +1,7 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #333;
+}
 /* grid 960px */
 .linha{
     width: 960px;
